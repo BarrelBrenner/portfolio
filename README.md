@@ -1,0 +1,1 @@
+this is a simple about me page for week 1, was not comfortable with a pic so did not add one, you can dock grade for it if need be
