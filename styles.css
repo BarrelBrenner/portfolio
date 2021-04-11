@@ -1,9 +1,0 @@
-body h1 + p {
-    color: blue;
-    background-color: grey;
-    padding: 5px;
-  }
-
-  body {
-    background-color: orange ;
-  } 
