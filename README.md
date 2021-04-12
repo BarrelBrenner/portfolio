@@ -1,1 +1,3 @@
-this is a simple about me page for week 1, was not comfortable with a pic so did not add one, you can dock grade for it if need be
+this is a simple about me page for week 2, was not comfortable with a pic so added a stand-in from a generator listed on site, you can dock grade for it if need be. Also Template is from Week 2 Advanced CSS folder --> Activities Folder --> 28-Stu_Mini_Project Folder --> Main Folder --> index.html.
+
+I swapped colors around from original but interface is the same. Also added photos from following sources to fill in boxes
