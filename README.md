@@ -6,11 +6,17 @@ GitHub -- https://mark.trademarkia.com/logo-images/github/logo-85631087.jpg
 
 My Avatar -- Picrewの「RPG: Classic Mode」でつくったよ！ https://picrew.me/share?cd=Cxf8MJ8K5Q #Picrew #RPG_Classic_Mode
 
+Password Generator -- 
+
 Code Quiz -- https://www.codewithc.com/wp-content/uploads/2014/09/online-quiz.jpg
 
 Group Project -- used Snipping Tool to take image & resized it
 
 Weather Dashboard -- https://purepng.com/public/uploads/large/purepng.com-earthearthplanetglobethird-planet-from-the-sun-1411526987924uaycc.png
+
+Note Taker -- see Group Project
+
+Group Project #2 -- see Group Project
 
 Final Greek Proverb -- http://adoubleshotofrecovery.com/wp-content/uploads/2015/08/Shade-Tree.jpg
 
@@ -18,3 +24,5 @@ If anything else looks amiss, please let me know & I will adjust as best I can. 
 
 Edit: This is an updated Portfolio page. About Me descriptions & pictures replaced with links of apps to show what I have done.
 Also figured out how to make images themselves into links so easier to read on mobile layout.
+
+Edit 2: Updated Portfolio Page with a couple more apps.
