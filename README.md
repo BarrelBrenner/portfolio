@@ -6,7 +6,7 @@ GitHub -- https://mark.trademarkia.com/logo-images/github/logo-85631087.jpg
 
 My Avatar -- Picrewの「RPG: Classic Mode」でつくったよ！ https://picrew.me/share?cd=Cxf8MJ8K5Q #Picrew #RPG_Classic_Mode
 
-Password Generator -- 
+Password Generator -- https://ps.w.org/frontend-reset-password/assets/icon-256x256.png?rev=1802392
 
 Code Quiz -- https://www.codewithc.com/wp-content/uploads/2014/09/online-quiz.jpg
 
